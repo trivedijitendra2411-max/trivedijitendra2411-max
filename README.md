@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**trivedijitendra2411-max/trivedijitendra2411-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hi, I'm Vishal Trivedi 👋
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Engineering Student at Government Engineering College, Rajkot
+- ☕ Learning Java and Data Structures & Algorithms
+- 💡 Passionate about Software Engineering and Problem Solving
+- 🚀 Consistently solving LeetCode problems
+- 🌱 Currently improving my Git & GitHub skills
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java
+- Data Structures & Algorithms
+- Git & GitHub
+- Software Engineering
+
+---
+
+## 🎯 2026 Goals
+
+- Solve 200+ LeetCode Problems
+- Build 5+ Java Projects
+- Strengthen DSA
+- Prepare for Software Engineering Internships
+
+---
+
+- LinkedIn: https://www.linkedin.com/in/ Vishal Trivedi
+- GitHub: https://github.com/trivedijitendra2411-max
+- Email: trivedijitendra2411@gmail.com
